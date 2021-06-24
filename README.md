@@ -21,7 +21,7 @@ I'm currently completing a capstone project from the Google Analytics certificat
 I am working on completing the Google Analytics course through Courseara. I will also begin my MSc in Data Science & FinTech in September!
 
 ### ⚡ Hackathons 
-<img align="left" alt="Recruitathon" width="200px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/RecruitaTH0n_2021_Certificate_1st_Place_P1.png" /></a>
+<img align="left" alt="Recruitathon" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/recruitathon.svg" /></a>
 </p>
 
 
@@ -31,20 +31,20 @@ I am working on completing the Google Analytics course through Courseara. I will
 
 ### Programming Languages
 <img align="left" alt="Python" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/python.svg" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/R.png" />
+<img align="left" alt="R" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/R.svg" />
 
 <br />
 <br />
 
 ### IDE'S
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/vsc.svg" />
-<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Jupyter.png" />
+<img align="left" alt="Jupyter Notebooks" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/jupyter.svg" />
 
 <br />
 
 ### Other tools
-<img align="left" alt="Power bi" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Power%20bi.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/SQL.png" />
+<img align="left" alt="Power bi" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/power%20bi.svg" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/SQL.svg" />
 
 <br /><br/>
 
