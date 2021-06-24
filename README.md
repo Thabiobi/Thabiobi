@@ -21,8 +21,7 @@ I'm currently completing a capstone project from the Google Analytics certificat
 I am working on completing the Google Analytics course through Courseara. I will also begin my MSc in Data Science & FinTech in September!
 
 ### ⚡ Hackathons 
-<img align="left" alt="Recruitathon" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/recruitathon.svg" /></a>
-</p>
+[<img align="left" alt="Recruitathon" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/recruitathon.svg" />][thabi header]
 
 
 
