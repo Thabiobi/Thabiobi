@@ -21,40 +21,29 @@ I'm currently completing a capstone project from the Google Analytics certificat
 I am working on completing the Google Analytics course through Courseara. I will also begin my MSc in Data Science & FinTech in September!
 
 ### ⚡ Hackathons 
-<img align="left" alt="Recruitathon" width="60px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/RecruitaTH0n_2021_Certificate_1st_Place_P1.png" />
+<img align="left" alt="Recruitathon" width="200px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/RecruitaTH0n_2021_Certificate_1st_Place_P1.png" />
 
 <br />
 
 ## 🔧 Technologies & Tools
 
 ### Programming Languages
-
-<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/python.png" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/R.png" />
+<img align="left" alt="Python" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/python.png" />
+<img align="left" alt="R" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/R.png" />
 
 <br />
 
 ### IDE'S
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/VSC.png" />
-<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Jupyter.png" />
+<img align="left" alt="Visual Studio Code" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/VSC.png" />
+<img align="left" alt="Jupyter Notebooks" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Jupyter.png" />
 
 <br />
 
-### Data Science Tools
-
-<img align="left" alt="Streamlit Logo" width="96px" src="" />
+### Other tools
 <img align="left" alt="Power bi" width="96px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Power%20bi.png" />
-
-
-<br/><br/>
-
-### Database Tools
-
 <img align="left" alt="SQL" width="64px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/SQL.png" />
 
-
 <br /><br/>
-
 
 ## &#x1f4c8; GitHub Stats
 
