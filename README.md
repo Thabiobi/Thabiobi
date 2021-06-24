@@ -30,21 +30,21 @@ I am working on completing the Google Analytics course through Courseara. I will
 ## 🔧 Technologies & Tools
 
 ### Programming Languages
-<img align="left" alt="Python" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/python.png" />
-<img align="left" alt="R" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/R.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/python.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/R.png" />
 
 <br />
 <br />
 
 ### IDE'S
-<img align="left" alt="Visual Studio Code" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/VSC.png" />
-<img align="left" alt="Jupyter Notebooks" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Jupyter.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/VSC.png" />
+<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Jupyter.png" />
 
 <br />
 
 ### Other tools
-<img align="left" alt="Power bi" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Power%20bi.png" />
-<img align="left" alt="SQL" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/SQL.png" />
+<img align="left" alt="Power bi" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Power%20bi.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/SQL.png" />
 
 <br /><br/>
 
