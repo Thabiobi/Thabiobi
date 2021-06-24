@@ -1,4 +1,11 @@
-# [![thabi header](https://github.com/Thabiobi/Thabiobi/blob/main/icons/thabi_banner.pnggit)](https://thabiobi.github.io/)
+# [![thabi header](https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/thabi_banner.png)](https://thabiobi.github.io/)
+
+</p>
+
+<p align='center'>
+<a href="https://www.instagram.com/ijayobi/"><img height="30" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/thabisile-obi/"><img height="30" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/linkedin.png"></a>
+</p>
 
 
 ### Hi there 👋 I'm Thabisile Obi
