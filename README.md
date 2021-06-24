@@ -1,4 +1,4 @@
-# [![thabi header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+# [![thabi header](https://github.com/Thabiobi/Thabiobi/blob/main/icons/thabi_banner.pnggit)](https://thabiobi.github.io/)
 
 
 ### Hi there 👋 I'm Thabisile Obi
