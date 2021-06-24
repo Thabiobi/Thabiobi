@@ -48,8 +48,7 @@ I am working on completing the Google Analytics course through Courseara. I will
 
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thabiobi)](https://github.com/thabiobi/github-readme-stats)
-
+[![Thabiobi GitHub stats](https://github-readme-stats.vercel.app/api?username=thabiobi&show_icons=true&count_private=true&theme=omni)](https://github.com/thabiobi/github-readme-stats)
 
 ---
 
