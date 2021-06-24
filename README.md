@@ -12,11 +12,16 @@
 
  I am a data science enthusiast who uses various analytical skills and tools to solve problems through critical and creative thinking for innovating ideas. As a hardworking, self-driven and enthusiastic woman, I pride myself on my ability to solve problems and produce data-driven guidance.
 
-## 🔭 What am I currently working on?
+### 🔭 What am I currently working on?
 
-I'm currently completing a capstone project from the Google Analytics certification, [check it out!]()
+I'm currently completing a capstone project from the Google Analytics certification, [check it out!](). I am open for collaborations, contact me 
 
-## 🌱 I’m currently learning at UoL, doing a MSc in Data Science and FinTech 
+### 🌱 What am I currently learning?
+
+I am working on completing the Google Analytics course through Courseara. I will also begin my MSc in Data Science & FinTech in September!
+
+### ⚡ Hackathons 
+<img align="left" alt="Recruitathon" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/RecruitaTH0n_2021_Certificate_1st_Place_P1.png" />
 
 <br />
 
@@ -24,30 +29,28 @@ I'm currently completing a capstone project from the Google Analytics certificat
 
 ### Programming Languages
 
-<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Jupyter.png" />
-<img align="left" alt="R" width="26px" src="" />
+<img align="left" alt="Python" width="42px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/python.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/R.png" />
 
 <br />
 
 ### IDE'S
-<img align="left" alt="Visual Studio Code" width="26px" src="" />
-<img align="left" alt="Jupyter Notebooks" width="26px" src="" />
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/VSC.png" />
+<img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Jupyter.png" />
 
 <br />
 
-#### Data Science Tools
-
+### Data Science Tools
 
 <img align="left" alt="Streamlit Logo" width="96px" src="" />
-<img align="left" alt="Power bi" width="96px" src="" />
+<img align="left" alt="Power bi" width="96px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Power%20bi.png" />
 
 
 <br/><br/>
 
-#### Database Tools
+### Database Tools
 
-<img align="left" alt="SQL" width="64px" src="" />
+<img align="left" alt="SQL" width="64px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/SQL.png" />
 
 
 <br /><br/>
