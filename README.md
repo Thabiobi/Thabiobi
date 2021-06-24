@@ -24,6 +24,7 @@ I am working on completing the Google Analytics course through Courseara. I will
 <img align="left" alt="Recruitathon" width="200px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/RecruitaTH0n_2021_Certificate_1st_Place_P1.png" />
 
 <br />
+<br />
 
 ## 🔧 Technologies & Tools
 
@@ -31,6 +32,7 @@ I am working on completing the Google Analytics course through Courseara. I will
 <img align="left" alt="Python" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/python.png" />
 <img align="left" alt="R" width="150px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/R.png" />
 
+<br />
 <br />
 
 ### IDE'S
