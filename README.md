@@ -30,14 +30,14 @@ I am working on completing the Google Analytics course through Courseara. I will
 ## 🔧 Technologies & Tools
 
 ### Programming Languages
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/python.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/python.svg" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/R.png" />
 
 <br />
 <br />
 
 ### IDE'S
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/VSC.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/vsc.svg" />
 <img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/Thabiobi/Thabiobi/main/icons/Jupyter.png" />
 
 <br />
