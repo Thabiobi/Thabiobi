@@ -1,6 +1,11 @@
+
+
+
 ### Hi there 👋 I'm Thabisile Obi
 
-## I am a data science enthusiast who uses various analytical skills and tools to solve problems through critical and creative thinking for innovating ideas. As a hardworking, self-driven and enthusiastic woman, I pride myself on my ability to solve problems and produce data-driven guidance.
+
+
+#### I am a data science enthusiast who uses various analytical skills and tools to solve problems through critical and creative thinking for innovating ideas. As a hardworking, self-driven and enthusiastic woman, I pride myself on my ability to solve problems and produce data-driven guidance.
 
 <!--
 **Thabiobi/Thabiobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
