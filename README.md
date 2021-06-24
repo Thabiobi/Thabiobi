@@ -21,7 +21,7 @@ I'm currently completing a capstone project from the Google Analytics certificat
 I am working on completing the Google Analytics course through Courseara. I will also begin my MSc in Data Science & FinTech in September!
 
 ### ⚡ Hackathons 
-[<img align="left" alt="Recruitathon" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/recruitathon.svg" />][thabi header]
+[<img align="left" alt="Recruitathon" width="50px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/recruitathon.svg" />][website]
 
 
 
@@ -50,6 +50,12 @@ I am working on completing the Google Analytics course through Courseara. I will
 ## &#x1f4c8; GitHub Stats
 
 
+
+
+
+</details>
+
+[website]: https://thabiobi.github.io/
 
 <!--
 **Thabiobi/Thabiobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
