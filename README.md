@@ -22,7 +22,7 @@ I am open for collaborations, contact me. Also check out my previous [projects](
 
 ### 🌱 What am I currently learning?
 
-I am working on completing the Google Analytics course through Courseara. I will also begin my MSc in Data Science & FinTech in September!
+I am working on completing the Machine Learning course through Coursera. I will also begin my MSc in Data Science & FinTech in September!
 
 
 ---
@@ -65,13 +65,15 @@ I am working on completing the Google Analytics course through Courseara. I will
 ## ⚡ Hackathons & Certificates 
 [<img align="left" alt="Recruitathon" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/recruitathon.svg" />][website]
 
-[<img align="left" alt="Google analytics" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/analytics.svg" />][https://www.credly.com/badges/1c91c29b-caf9-4031-926a-695d11968279?source=linked_in_profile]
+[<img align="left" alt="Google analytics" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/analytics.svg" />][google_badge]
 
-[<img align="left" alt="aws" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/aws%20_certi.svg" />][https://www.credly.com/badges/5176f597-e171-4d10-8220-7c8713a664d8?source=linked_in_profile]
+[<img align="left" alt="aws" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/aws%20_certi.svg" />][aws_badge]
 
 </details>
 
 [website]: https://thabiobi.github.io/
+[aws_badge]: https://www.credly.com/badges/5176f597-e171-4d10-8220-7c8713a664d8?source=linked_in_profile/
+[google_badge]: https://www.credly.com/badges/1c91c29b-caf9-4031-926a-695d11968279?source=linked_in_profile 
 
 <!--
 **Thabiobi/Thabiobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
