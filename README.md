@@ -12,7 +12,7 @@
 
 I am a data science enthusiast who uses various analytical skills and tools to solve problems through critical and creative thinking for innovating ideas. As a hardworking, self-driven and enthusiastic woman, I pride myself on my ability to solve problems and produce data-driven guidance.
 
-I am interested in specialising in the domain of blockchain, cryptocurrency and financial modelling within data science. I am actively working towards gaining experience in these domains and furthering my education in the specialisations.  
+I am interested in specialising in the domain of blockchain, cryptocurrency and financial modelling within data science. I am actively working towards gaining experience in these domains and furthering my education in the specialisations. Check out my [resume!][resume]
 
 ### 🔭 What am I currently working on?
 
@@ -74,6 +74,7 @@ I am working on completing the Machine Learning course through Coursera. I will 
 [website]: https://thabiobi.github.io/
 [aws_badge]: https://www.credly.com/badges/5176f597-e171-4d10-8220-7c8713a664d8?source=linked_in_profile/
 [google_badge]: https://www.credly.com/badges/1c91c29b-caf9-4031-926a-695d11968279?source=linked_in_profile 
+[resume]: https://drive.google.com/file/d/1UYMr9X6VTseF8DDYEEiSmRE4P78p-PrZ/view?usp=sharing
 
 <!--
 **Thabiobi/Thabiobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
