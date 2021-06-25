@@ -41,6 +41,10 @@ I am working on completing the Google Analytics course through Courseara. I will
 ### Other tools
 <img align="left" alt="Power bi" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/power%20bi.svg" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/SQL.svg" />
+<img align="left" alt="AWS" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/aws.svg" />
+<img align="left" alt="Strealit" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/streamlit.svg" />
+<img align="left" alt="Powerpoint" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/powerpoint.svg" />
+<img align="left" alt="Excel" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/excel.svg />
 
 <br /><br/>
 
