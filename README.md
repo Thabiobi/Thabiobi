@@ -39,6 +39,8 @@ I am working on completing the Machine Learning course through Coursera. I will 
 ### IDE'S
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/vsc.svg" />
 <img align="left" alt="Jupyter Notebooks" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/jupyter.svg" />
+<img align="left" alt="Colab" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/colab.svg" />
+<img align="left" alt="R Studio" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/R%20studio.svg" />
 
 <br />
 
