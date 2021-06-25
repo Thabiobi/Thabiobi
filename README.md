@@ -10,11 +10,15 @@
 
 ## Hi there 👋 I'm Thabisile Obi
 
- I am a data science enthusiast who uses various analytical skills and tools to solve problems through critical and creative thinking for innovating ideas. As a hardworking, self-driven and enthusiastic woman, I pride myself on my ability to solve problems and produce data-driven guidance.
+I am a data science enthusiast who uses various analytical skills and tools to solve problems through critical and creative thinking for innovating ideas. As a hardworking, self-driven and enthusiastic woman, I pride myself on my ability to solve problems and produce data-driven guidance.
+
+I am interested in specialising in the domain of blockchain, cryptocurrency and financial modelling within data science. I am actively working towards gaining experience in these domains and furthering my education in the specialisations.  
 
 ### 🔭 What am I currently working on?
 
-I'm currently completing a capstone project from the Google Analytics certification, [check it out!](). I am open for collaborations, contact me 
+I'm currently completing a capstone project from the Google Analytics certification, [check it out!](https://github.com/Thabiobi/Google_analytics_capstone). 
+
+I am open for collaborations, contact me. Also check out my previous [projects](https://github.com/Thabiobi/Explore_Data_Science_Academy_Projects).
 
 ### 🌱 What am I currently learning?
 
@@ -58,9 +62,12 @@ I am working on completing the Google Analytics course through Courseara. I will
 
 ---
 
-## ⚡ Hackathons 
+## ⚡ Hackathons & Certificates 
 [<img align="left" alt="Recruitathon" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/recruitathon.svg" />][website]
 
+[<img align="left" alt="Google analytics" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/analytics.svg" />][https://www.credly.com/badges/1c91c29b-caf9-4031-926a-695d11968279?source=linked_in_profile]
+
+[<img align="left" alt="aws" width="200px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/aws%20_certi.svg" />][https://www.credly.com/badges/5176f597-e171-4d10-8220-7c8713a664d8?source=linked_in_profile]
 
 </details>
 
