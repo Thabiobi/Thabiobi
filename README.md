@@ -44,7 +44,8 @@ I am working on completing the Google Analytics course through Courseara. I will
 <img align="left" alt="AWS" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/aws.svg" />
 <img align="left" alt="Strealit" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/streamlit.svg" />
 <img align="left" alt="Powerpoint" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/powerpoint.svg" />
-<img align="left" alt="Excel" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/excel.svg />
+<img align="left" alt="Excel" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/excel.svg" />
+<img align="left" alt="Excel" width="26px" src="https://github.com/Thabiobi/Thabiobi/blob/main/icons/github.svg" />
 
 <br /><br/>
 
